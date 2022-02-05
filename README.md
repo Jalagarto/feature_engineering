@@ -1,7 +1,7 @@
 # feature_engineering
 
 Basic repo for automating some feature engineering operations. Feature Engineering is key 
-to achieve ML models to predict accurately.
+to achieve ML models to predict accurately. ***Check the wiki for some brainstorming***
 
 ### TODOES:
 1. Filtering  
